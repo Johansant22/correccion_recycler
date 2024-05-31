@@ -30,7 +30,7 @@ class ListaVideoJuegos {
              VideoJuegos(
                  "Fc 24",
                  "E.A sports",
-                 "https://all2bikes.com/cdn/shop/products/Ducati_Streetfighter-V4_my2020_CRT-Carbonio-SlipOn-Decat-Basso_Lato.jpg?v=1647272592"
+                 "https://media.tycsports.com/files/2023/09/18/619663/ea-sports-fc-24-10-horas-gratis_862x485.webp"
              ),
 
              VideoJuegos(

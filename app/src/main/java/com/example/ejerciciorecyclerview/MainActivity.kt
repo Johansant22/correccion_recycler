@@ -15,8 +15,6 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        enableEdgeToEdge()
-        ListaVideoJuegos.videoJuegosList
         setContentView(R.layout.activity_main)
         initRecyclerView()
 

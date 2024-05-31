@@ -38,7 +38,7 @@ android {
 dependencies {
     //DEpendencias Recycler
     implementation ("com.github.bumptech.glide:glide:4.16.0")
-    implementation ("androidx.recyclerview:recyclerview:1.2.1")
+    implementation (libs.androidx.recyclerview)
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
